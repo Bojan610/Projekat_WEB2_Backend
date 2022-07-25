@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using Projekat_Web2.DTO;
 using Projekat_Web2.Interfaces;
 using System;
@@ -33,6 +34,7 @@ namespace Projekat_Web2.Controllers
         }
 
         [HttpGet("{email}")]
+        [Authorize(Policy = "SamoOdabrani")]
         public IActionResult GetByUsername(string email)
         {
             return Ok(_userService.GetUserByEmail(email));
@@ -40,11 +42,16 @@ namespace Projekat_Web2.Controllers
 
 
         [HttpPost("updateUser")]
+        [Authorize(Policy = "SamoOdabrani")]
         public IActionResult UpdateUser([FromBody] UpdateUserDto dto)
         {
             return Ok(_userService.UpdateUser(dto));
         }
 
-        
+        [HttpPost("socialLogin")]
+        public IActionResult SocialLogin([FromBody] SocialLoginDto model)
+        {
+            return Ok(_userService.SocialLogin(model));
+        }
     }
 }

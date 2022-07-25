@@ -1,4 +1,5 @@
 ﻿using Projekat_Web2.DTO;
+using Projekat_Web2.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -14,5 +15,8 @@ namespace Projekat_Web2.Interfaces
 
         bool AcceptDeliverer(string email);
         bool DeclineDeliverer(string email);
+        List<ProductDto> GetAllProducts();
+        bool AddNewProduct(ProductDto product);
+        List<OrderDto> GetOrders();
     }
 }

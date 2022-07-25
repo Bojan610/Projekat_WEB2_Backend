@@ -18,6 +18,10 @@ namespace Projekat_Web2.Mapping
             CreateMap<Deliverer, CreateUserDto>().ReverseMap();
             CreateMap<User, DisplayUserDto>().ReverseMap();
             CreateMap<Deliverer, DisplayDelivererDto>().ReverseMap();
+            CreateMap<Product, ProductDto>().ReverseMap();
+            CreateMap<Order, OrderDto>().ReverseMap();
+            CreateMap<Order, PickupOrderDto>().ReverseMap();
+            
         }
     }
 }

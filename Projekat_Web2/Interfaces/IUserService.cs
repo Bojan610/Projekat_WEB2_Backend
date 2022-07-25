@@ -14,5 +14,7 @@ namespace Projekat_Web2.Interfaces
         DisplayUserDto GetUserByEmail(string email);
 
         bool UpdateUser(UpdateUserDto updateUserDto);
+
+        TokenDto SocialLogin(SocialLoginDto model);
     }
 }
