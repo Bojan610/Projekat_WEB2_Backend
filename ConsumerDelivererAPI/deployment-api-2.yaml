@@ -1,0 +1,120 @@
+﻿---
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: consumer-deliverer-api-deployment
+  labels:
+    app: consumer-deliverer-api
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: consumer-deliverer-api
+  template:
+    metadata:
+      labels:
+        env: prod
+        app: consumer-deliverer-api
+        app.kubernetes.io/name: consumer-deliverer-api
+    spec:
+        containers:         
+            - name: consumer-deliverer-api
+              image: bojan610/consumer-deliverer-repository:v3.3
+              ports:
+                - containerPort: 82
+              env:
+                - name: ASPNETCORE_URLS
+                  value: http://+:82
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: consumer-deliverer-api-service
+  labels:
+    app: consumer-deliverer-api
+    service: consumer-deliverer-api
+spec:
+  selector:
+    app: consumer-deliverer-api
+  type: LoadBalancer
+  ports:
+    - protocol: TCP
+      # Port accessible inside cluster
+      port: 8082
+      # Port to forward to inside the pod
+      targetPort: 82
+      # Port accessible outside cluster
+---
+# Define a 'Persistent Voulume Claim'(PVC) for Mysql Storage, dynamically provisioned by cluster
+apiVersion: v1
+kind: PersistentVolumeClaim
+metadata:
+  name: mysql-2-pv-claim # name of PVC essential for identifying the storage data
+  labels:
+    app: mysql-2
+    tier: database
+spec:
+  accessModes:
+    - ReadWriteOnce   #This specifies the mode of the claim that we are trying to create.
+  resources:
+    requests:
+      storage: 1Gi    #This will tell kubernetes about the amount of space we are trying to claim.
+---
+# Configure 'Deployment' of mysql server
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: mysql-2
+  labels:
+    app: mysql-2
+    tier: database
+spec:
+  selector: # mysql Pod Should contain same labels
+    matchLabels:
+      app: mysql-2
+      tier: database
+  strategy:
+    type: Recreate
+  template:
+    metadata:
+      labels: # Must match 'Service' and 'Deployment' selectors
+        app: mysql-2
+        tier: database
+    spec:
+      containers:
+        - image: mysql:5.7 # image from docker-hub
+          args:
+            - "--ignore-db-dir=lost+found" # Workaround for https://github.com/docker-library/mysql/issues/186
+          name: mysql-2
+          env:
+            - name: MYSQL_ROOT_PASSWORD
+              value: root
+            - name: MYSQL_DATABASE # Setting Database Name from a 'ConfigMap'
+              value: ProductOrderDatabase
+          ports:
+            - containerPort: 3306
+              name: mysql-2
+          volumeMounts:        # Mounting voulume obtained from Persistent Volume Claim
+            - name: mysql-2-persistent-storage
+              mountPath: /var/lib/mysql #This is the path in the container on which the mounting will take place.
+      volumes:
+        - name: mysql-2-persistent-storage # Obtaining 'vloume' from PVC
+          persistentVolumeClaim:
+            claimName: mysql-2-pv-claim
+---
+# Define a 'Service' To Expose mysql to Other Services
+apiVersion: v1
+kind: Service
+metadata:
+  name: mysql-2  # DNS name
+  labels:
+    app: mysql-2
+    tier: database
+spec:
+  ports:
+    - port: 3306
+      targetPort: 3306
+  selector:       # mysql Pod Should contain same labels
+    app: mysql-2
+    tier: database
+  clusterIP: None  # We Use DNS, Thus ClusterIP is not relevant.

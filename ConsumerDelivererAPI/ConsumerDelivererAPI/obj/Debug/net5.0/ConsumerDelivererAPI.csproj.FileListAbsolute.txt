@@ -1,0 +1,131 @@
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\ConsumerDelivererAPI\ConsumerDelivererAPI\obj\Debug\net5.0\ConsumerDelivererAPI.csproj.AssemblyReference.cache
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\ConsumerDelivererAPI\ConsumerDelivererAPI\obj\Debug\net5.0\ConsumerDelivererAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\ConsumerDelivererAPI\ConsumerDelivererAPI\obj\Debug\net5.0\ConsumerDelivererAPI.AssemblyInfoInputs.cache
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\ConsumerDelivererAPI\ConsumerDelivererAPI\obj\Debug\net5.0\ConsumerDelivererAPI.AssemblyInfo.cs
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\ConsumerDelivererAPI\ConsumerDelivererAPI\obj\Debug\net5.0\ConsumerDelivererAPI.csproj.CoreCompileInputs.cache
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\ConsumerDelivererAPI\ConsumerDelivererAPI\obj\Debug\net5.0\ConsumerDelivererAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\ConsumerDelivererAPI\ConsumerDelivererAPI\obj\Debug\net5.0\ConsumerDelivererAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\ConsumerDelivererAPI\ConsumerDelivererAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\ConsumerDelivererAPI\ConsumerDelivererAPI\bin\Debug\net5.0\appsettings.json
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\ConsumerDelivererAPI\ConsumerDelivererAPI\bin\Debug\net5.0\ConsumerDelivererAPI.exe
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\ConsumerDelivererAPI\ConsumerDelivererAPI\bin\Debug\net5.0\ConsumerDelivererAPI.deps.json
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\ConsumerDelivererAPI\ConsumerDelivererAPI\bin\Debug\net5.0\ConsumerDelivererAPI.runtimeconfig.json
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\ConsumerDelivererAPI\ConsumerDelivererAPI\bin\Debug\net5.0\ConsumerDelivererAPI.runtimeconfig.dev.json
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\ConsumerDelivererAPI\ConsumerDelivererAPI\bin\Debug\net5.0\ConsumerDelivererAPI.dll
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\ConsumerDelivererAPI\ConsumerDelivererAPI\bin\Debug\net5.0\ConsumerDelivererAPI.pdb
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\ConsumerDelivererAPI\ConsumerDelivererAPI\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\ConsumerDelivererAPI\ConsumerDelivererAPI\bin\Debug\net5.0\BCrypt.Net-Next.dll
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\ConsumerDelivererAPI\ConsumerDelivererAPI\bin\Debug\net5.0\Humanizer.dll
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\ConsumerDelivererAPI\ConsumerDelivererAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\ConsumerDelivererAPI\ConsumerDelivererAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\ConsumerDelivererAPI\ConsumerDelivererAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\ConsumerDelivererAPI\ConsumerDelivererAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\ConsumerDelivererAPI\ConsumerDelivererAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\ConsumerDelivererAPI\ConsumerDelivererAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\ConsumerDelivererAPI\ConsumerDelivererAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\ConsumerDelivererAPI\ConsumerDelivererAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\ConsumerDelivererAPI\ConsumerDelivererAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\ConsumerDelivererAPI\ConsumerDelivererAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\ConsumerDelivererAPI\ConsumerDelivererAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\ConsumerDelivererAPI\ConsumerDelivererAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\ConsumerDelivererAPI\ConsumerDelivererAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\ConsumerDelivererAPI\ConsumerDelivererAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\ConsumerDelivererAPI\ConsumerDelivererAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\ConsumerDelivererAPI\ConsumerDelivererAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\ConsumerDelivererAPI\ConsumerDelivererAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\ConsumerDelivererAPI\ConsumerDelivererAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\ConsumerDelivererAPI\ConsumerDelivererAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\ConsumerDelivererAPI\ConsumerDelivererAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\ConsumerDelivererAPI\ConsumerDelivererAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\ConsumerDelivererAPI\ConsumerDelivererAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\ConsumerDelivererAPI\ConsumerDelivererAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\ConsumerDelivererAPI\ConsumerDelivererAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\ConsumerDelivererAPI\ConsumerDelivererAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\ConsumerDelivererAPI\ConsumerDelivererAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\ConsumerDelivererAPI\ConsumerDelivererAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\ConsumerDelivererAPI\ConsumerDelivererAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\ConsumerDelivererAPI\ConsumerDelivererAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\ConsumerDelivererAPI\ConsumerDelivererAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\ConsumerDelivererAPI\ConsumerDelivererAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\ConsumerDelivererAPI\ConsumerDelivererAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\ConsumerDelivererAPI\ConsumerDelivererAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\ConsumerDelivererAPI\ConsumerDelivererAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\ConsumerDelivererAPI\ConsumerDelivererAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\ConsumerDelivererAPI\ConsumerDelivererAPI\obj\Debug\net5.0\scopedcss\bundle\ConsumerDelivererAPI.styles.css
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\ConsumerDelivererAPI\ConsumerDelivererAPI\obj\Debug\net5.0\staticwebassets\ConsumerDelivererAPI.StaticWebAssets.Manifest.cache
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\ConsumerDelivererAPI\ConsumerDelivererAPI\obj\Debug\net5.0\ConsumerDelivererAPI.RazorTargetAssemblyInfo.cache
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\ConsumerDelivererAPI\ConsumerDelivererAPI\obj\Debug\net5.0\ConsumerDelivererAPI.csproj.CopyComplete
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\ConsumerDelivererAPI\ConsumerDelivererAPI\obj\Debug\net5.0\ConsumerDelivererAPI.dll
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\ConsumerDelivererAPI\ConsumerDelivererAPI\obj\Debug\net5.0\refint\ConsumerDelivererAPI.dll
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\ConsumerDelivererAPI\ConsumerDelivererAPI\obj\Debug\net5.0\ConsumerDelivererAPI.pdb
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\ConsumerDelivererAPI\ConsumerDelivererAPI\obj\Debug\net5.0\ConsumerDelivererAPI.genruntimeconfig.cache
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\ConsumerDelivererAPI\ConsumerDelivererAPI\obj\Debug\net5.0\ref\ConsumerDelivererAPI.dll
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\ConsumerDelivererAPI\ConsumerDelivererAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\ConsumerDelivererAPI\ConsumerDelivererAPI\bin\Debug\net5.0\appsettings.json
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\ConsumerDelivererAPI\ConsumerDelivererAPI\bin\Debug\net5.0\ConsumerDelivererAPI.exe
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\ConsumerDelivererAPI\ConsumerDelivererAPI\bin\Debug\net5.0\ConsumerDelivererAPI.deps.json
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\ConsumerDelivererAPI\ConsumerDelivererAPI\bin\Debug\net5.0\ConsumerDelivererAPI.runtimeconfig.json
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\ConsumerDelivererAPI\ConsumerDelivererAPI\bin\Debug\net5.0\ConsumerDelivererAPI.runtimeconfig.dev.json
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\ConsumerDelivererAPI\ConsumerDelivererAPI\bin\Debug\net5.0\ConsumerDelivererAPI.dll
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\ConsumerDelivererAPI\ConsumerDelivererAPI\bin\Debug\net5.0\ConsumerDelivererAPI.pdb
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\ConsumerDelivererAPI\ConsumerDelivererAPI\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\ConsumerDelivererAPI\ConsumerDelivererAPI\bin\Debug\net5.0\BCrypt.Net-Next.dll
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\ConsumerDelivererAPI\ConsumerDelivererAPI\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\ConsumerDelivererAPI\ConsumerDelivererAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\ConsumerDelivererAPI\ConsumerDelivererAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\ConsumerDelivererAPI\ConsumerDelivererAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\ConsumerDelivererAPI\ConsumerDelivererAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\ConsumerDelivererAPI\ConsumerDelivererAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\ConsumerDelivererAPI\ConsumerDelivererAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\ConsumerDelivererAPI\ConsumerDelivererAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\ConsumerDelivererAPI\ConsumerDelivererAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\ConsumerDelivererAPI\ConsumerDelivererAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\ConsumerDelivererAPI\ConsumerDelivererAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\ConsumerDelivererAPI\ConsumerDelivererAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\ConsumerDelivererAPI\ConsumerDelivererAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\ConsumerDelivererAPI\ConsumerDelivererAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\ConsumerDelivererAPI\ConsumerDelivererAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\ConsumerDelivererAPI\ConsumerDelivererAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\ConsumerDelivererAPI\ConsumerDelivererAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\ConsumerDelivererAPI\ConsumerDelivererAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\ConsumerDelivererAPI\ConsumerDelivererAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\ConsumerDelivererAPI\ConsumerDelivererAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\ConsumerDelivererAPI\ConsumerDelivererAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\ConsumerDelivererAPI\ConsumerDelivererAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\ConsumerDelivererAPI\ConsumerDelivererAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\ConsumerDelivererAPI\ConsumerDelivererAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\ConsumerDelivererAPI\ConsumerDelivererAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\ConsumerDelivererAPI\ConsumerDelivererAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\ConsumerDelivererAPI\ConsumerDelivererAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\ConsumerDelivererAPI\ConsumerDelivererAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\ConsumerDelivererAPI\ConsumerDelivererAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\ConsumerDelivererAPI\ConsumerDelivererAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\ConsumerDelivererAPI\ConsumerDelivererAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\ConsumerDelivererAPI\ConsumerDelivererAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\ConsumerDelivererAPI\ConsumerDelivererAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\ConsumerDelivererAPI\ConsumerDelivererAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\ConsumerDelivererAPI\ConsumerDelivererAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\ConsumerDelivererAPI\ConsumerDelivererAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\ConsumerDelivererAPI\ConsumerDelivererAPI\obj\Debug\net5.0\ConsumerDelivererAPI.csproj.AssemblyReference.cache
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\ConsumerDelivererAPI\ConsumerDelivererAPI\obj\Debug\net5.0\ConsumerDelivererAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\ConsumerDelivererAPI\ConsumerDelivererAPI\obj\Debug\net5.0\ConsumerDelivererAPI.AssemblyInfoInputs.cache
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\ConsumerDelivererAPI\ConsumerDelivererAPI\obj\Debug\net5.0\ConsumerDelivererAPI.AssemblyInfo.cs
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\ConsumerDelivererAPI\ConsumerDelivererAPI\obj\Debug\net5.0\ConsumerDelivererAPI.csproj.CoreCompileInputs.cache
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\ConsumerDelivererAPI\ConsumerDelivererAPI\obj\Debug\net5.0\ConsumerDelivererAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\ConsumerDelivererAPI\ConsumerDelivererAPI\obj\Debug\net5.0\ConsumerDelivererAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\ConsumerDelivererAPI\ConsumerDelivererAPI\obj\Debug\net5.0\scopedcss\bundle\ConsumerDelivererAPI.styles.css
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\ConsumerDelivererAPI\ConsumerDelivererAPI\obj\Debug\net5.0\staticwebassets\ConsumerDelivererAPI.StaticWebAssets.Manifest.cache
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\ConsumerDelivererAPI\ConsumerDelivererAPI\obj\Debug\net5.0\staticwebassets\ConsumerDelivererAPI.StaticWebAssets.Pack.cache
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\ConsumerDelivererAPI\ConsumerDelivererAPI\obj\Debug\net5.0\staticwebassets\msbuild.ConsumerDelivererAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\ConsumerDelivererAPI\ConsumerDelivererAPI\obj\Debug\net5.0\staticwebassets\msbuild.build.ConsumerDelivererAPI.props
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\ConsumerDelivererAPI\ConsumerDelivererAPI\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.ConsumerDelivererAPI.props
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\ConsumerDelivererAPI\ConsumerDelivererAPI\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.ConsumerDelivererAPI.props
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\ConsumerDelivererAPI\ConsumerDelivererAPI\obj\Debug\net5.0\ConsumerDelivererAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\ConsumerDelivererAPI\ConsumerDelivererAPI\obj\Debug\net5.0\ConsumerDelivererAPI.csproj.CopyComplete
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\ConsumerDelivererAPI\ConsumerDelivererAPI\obj\Debug\net5.0\ConsumerDelivererAPI.dll
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\ConsumerDelivererAPI\ConsumerDelivererAPI\obj\Debug\net5.0\refint\ConsumerDelivererAPI.dll
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\ConsumerDelivererAPI\ConsumerDelivererAPI\obj\Debug\net5.0\ConsumerDelivererAPI.pdb
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\ConsumerDelivererAPI\ConsumerDelivererAPI\obj\Debug\net5.0\ConsumerDelivererAPI.genruntimeconfig.cache
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\ConsumerDelivererAPI\ConsumerDelivererAPI\obj\Debug\net5.0\ref\ConsumerDelivererAPI.dll
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\ConsumerDelivererAPI\ConsumerDelivererAPI\bin\Debug\net5.0\MySqlConnector.dll
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\ConsumerDelivererAPI\ConsumerDelivererAPI\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll

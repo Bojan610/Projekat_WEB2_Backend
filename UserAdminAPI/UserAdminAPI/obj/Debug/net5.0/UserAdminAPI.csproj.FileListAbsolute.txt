@@ -1,0 +1,149 @@
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\bin\Debug\net5.0\appsettings.json
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\bin\Debug\net5.0\UserAdminAPI.exe
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\bin\Debug\net5.0\UserAdminAPI.deps.json
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\bin\Debug\net5.0\UserAdminAPI.runtimeconfig.json
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\bin\Debug\net5.0\UserAdminAPI.runtimeconfig.dev.json
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\bin\Debug\net5.0\UserAdminAPI.dll
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\bin\Debug\net5.0\UserAdminAPI.pdb
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\bin\Debug\net5.0\BCrypt.Net-Next.dll
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\bin\Debug\net5.0\Humanizer.dll
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\obj\Debug\net5.0\UserAdminAPI.csproj.AssemblyReference.cache
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\obj\Debug\net5.0\UserAdminAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\obj\Debug\net5.0\UserAdminAPI.AssemblyInfoInputs.cache
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\obj\Debug\net5.0\UserAdminAPI.AssemblyInfo.cs
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\obj\Debug\net5.0\UserAdminAPI.csproj.CoreCompileInputs.cache
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\obj\Debug\net5.0\UserAdminAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\obj\Debug\net5.0\UserAdminAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\obj\Debug\net5.0\scopedcss\bundle\UserAdminAPI.styles.css
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\obj\Debug\net5.0\staticwebassets\UserAdminAPI.StaticWebAssets.Manifest.cache
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\obj\Debug\net5.0\UserAdminAPI.RazorTargetAssemblyInfo.cache
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\obj\Debug\net5.0\UserAdminAPI.csproj.CopyComplete
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\obj\Debug\net5.0\UserAdminAPI.dll
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\obj\Debug\net5.0\refint\UserAdminAPI.dll
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\obj\Debug\net5.0\UserAdminAPI.pdb
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\obj\Debug\net5.0\UserAdminAPI.genruntimeconfig.cache
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\obj\Debug\net5.0\ref\UserAdminAPI.dll
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\bin\Debug\net5.0\MimeKit.dll
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\bin\Debug\net5.0\System.Formats.Asn1.dll
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\bin\Debug\net5.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\bin\Debug\net5.0\System.Text.Encoding.CodePages.dll
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\bojan\Desktop\8. Semestar\Web 2\Projekat\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\bin\Debug\net5.0\MailKit.dll
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\bin\Debug\net5.0\appsettings.json
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\bin\Debug\net5.0\UserAdminAPI.exe
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\bin\Debug\net5.0\UserAdminAPI.deps.json
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\bin\Debug\net5.0\UserAdminAPI.runtimeconfig.json
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\bin\Debug\net5.0\UserAdminAPI.runtimeconfig.dev.json
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\bin\Debug\net5.0\UserAdminAPI.dll
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\bin\Debug\net5.0\UserAdminAPI.pdb
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\bin\Debug\net5.0\BCrypt.Net-Next.dll
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\bin\Debug\net5.0\MailKit.dll
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\bin\Debug\net5.0\MimeKit.dll
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\bin\Debug\net5.0\System.Formats.Asn1.dll
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\bin\Debug\net5.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\bin\Debug\net5.0\System.Text.Encoding.CodePages.dll
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\obj\Debug\net5.0\UserAdminAPI.csproj.AssemblyReference.cache
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\obj\Debug\net5.0\UserAdminAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\obj\Debug\net5.0\UserAdminAPI.AssemblyInfoInputs.cache
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\obj\Debug\net5.0\UserAdminAPI.AssemblyInfo.cs
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\obj\Debug\net5.0\UserAdminAPI.csproj.CoreCompileInputs.cache
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\obj\Debug\net5.0\UserAdminAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\obj\Debug\net5.0\UserAdminAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\obj\Debug\net5.0\scopedcss\bundle\UserAdminAPI.styles.css
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\obj\Debug\net5.0\staticwebassets\UserAdminAPI.StaticWebAssets.Manifest.cache
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\obj\Debug\net5.0\staticwebassets\UserAdminAPI.StaticWebAssets.Pack.cache
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\obj\Debug\net5.0\staticwebassets\msbuild.UserAdminAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\obj\Debug\net5.0\staticwebassets\msbuild.build.UserAdminAPI.props
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.UserAdminAPI.props
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.UserAdminAPI.props
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\obj\Debug\net5.0\UserAdminAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\obj\Debug\net5.0\UserAdminAPI.csproj.CopyComplete
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\obj\Debug\net5.0\UserAdminAPI.dll
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\obj\Debug\net5.0\refint\UserAdminAPI.dll
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\obj\Debug\net5.0\UserAdminAPI.pdb
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\obj\Debug\net5.0\UserAdminAPI.genruntimeconfig.cache
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\obj\Debug\net5.0\ref\UserAdminAPI.dll
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\bin\Debug\net5.0\MySqlConnector.dll
+C:\Users\Bojan B\Documents\Bojan\Diplomski\Projekat - moj\Projekat_Web2 - Backend\UserAdminAPI\UserAdminAPI\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
